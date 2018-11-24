@@ -7,6 +7,6 @@ public class drink {
         this.name = name;
     }
 
-    public double getPrice(){ return this.price; }
-    public String getName() { return this.name;}
+    public double getPrice() {return this.price;}
+    public String getName() {return this.name;}
 }
