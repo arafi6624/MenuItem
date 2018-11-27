@@ -27,6 +27,8 @@ public class Trio implements MenuItem{
         if (b > a && c > a){
             return b + c;
         }
-
+        else{
+            return a + b;
+        }
     }
 }
